@@ -40,7 +40,7 @@ t8: 1 yr Target Price
 m5: Change From 200 Day Moving Average
 m6: Percent Change From 200 Day Moving Average
 m7: Change From 50 Day Moving Average
-m8: Percent Change From 50 Day hjbvoutcMoving Average
+m8: Percent Change From 50 Day Moving Average
 m3: 50 Day Moving Average
 m4: 200 Day Moving Average
 
@@ -147,7 +147,7 @@ public class StockFetcher {
 		double shortRatio = 0.0;
 		double open = 0.0;
 		double previousClose = 0.0;
-		String exchange;
+		String exchange = "";
 		try { 
 			
 			// Retrieve CSV File
