@@ -40,7 +40,7 @@ t8: 1 yr Target Price
 m5: Change From 200 Day Moving Average
 m6: Percent Change From 200 Day Moving Average
 m7: Change From 50 Day Moving Average
-m8: Percent Change From 50 Day Moving Average
+m8: Percent Change From 50 Day hjbvoutcMoving Average
 m3: 50 Day Moving Average
 m4: 200 Day Moving Average
 
